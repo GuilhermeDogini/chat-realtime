@@ -1,6 +1,6 @@
 # Chat em Tempo Real
 
-Este é um projeto de chat em tempo real com funcionalidades para criar grupos e adicionar pessoas. Para acessar o chat, é necessário criar uma conta utilizando a autenticação fornecida pelo Clerk. [Clique aqui para acessar o Clerk](https://clerk.com).
+Este é um projeto de chat em tempo real com funcionalidades para criar grupos e adicionar pessoas.
 
 ## Tecnologias Utilizadas
 
